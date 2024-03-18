@@ -4,7 +4,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "server": "json-server -w server.json"
+    "server": "json-server --watch server.json"
   },
   "name": "server",
   "description": "",
